@@ -68,7 +68,8 @@ exports/
   dashboards/          Final Tableau dashboard PNG export
 
 notebooks/
-  active/              Exploratory and final analysis notebooks
+  01_dataset_exploration.ipynb
+  02_ebola_outbreak_analysis.ipynb
 
 references/
   source_registry.md
@@ -95,8 +96,8 @@ pip install -r requirements.txt
 
 Main notebooks:
 
-- `notebooks/active/01_dataset_exploration.ipynb`
-- `notebooks/active/02_ebola_outbreak_analysis.ipynb`
+- `notebooks/01_dataset_exploration.ipynb`
+- `notebooks/02_ebola_outbreak_analysis.ipynb`
 
 The public repository includes processed datasets used by the final notebook and
 dashboard. The original raw WHO/HDX file is excluded from the public repo;

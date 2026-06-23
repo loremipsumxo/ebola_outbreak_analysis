@@ -14,8 +14,8 @@
 
 ## Project Artifacts
 
-- `notebooks/active/01_dataset_exploration.ipynb`
-- `notebooks/active/02_ebola_outbreak_analysis.ipynb`
+- `notebooks/01_dataset_exploration.ipynb`
+- `notebooks/02_ebola_outbreak_analysis.ipynb`
 - `datasets/processed/master_cases_deaths.csv`
 
 [who-hdx-data]: https://data.humdata.org/dataset/ebola-cases-2014
