@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Environment and secrets
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local raw data
+datasets/raw/
+
+# Tableau temporary files
+*.twb~
+*.tds~
+~$*
