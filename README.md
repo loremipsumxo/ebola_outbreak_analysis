@@ -96,8 +96,8 @@ pip install -r requirements.txt
 
 Main notebooks:
 
-- `notebooks/01_dataset_exploration.ipynb`
-- `notebooks/02_ebola_outbreak_analysis.ipynb`
+- `notebooks/02_ebola_outbreak_analysis.ipynb` is the final rendered analysis notebook.
+- `notebooks/01_dataset_exploration.ipynb` documents raw-data exploration and requires the original WHO/HDX raw CSV locally.
 
 The public repository includes processed datasets used by the final notebook and
 dashboard. The original raw WHO/HDX file is excluded from the public repo;
